@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniScroll", "InfiniScroll\InfiniScroll.csproj", "{B152BBE0-87DA-4C69-8CCE-66FF3825D44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B152BBE0-87DA-4C69-8CCE-66FF3825D44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B152BBE0-87DA-4C69-8CCE-66FF3825D44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B152BBE0-87DA-4C69-8CCE-66FF3825D44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B152BBE0-87DA-4C69-8CCE-66FF3825D44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB864E1-7278-4EF6-A4FD-7642DF570259}
+	EndGlobalSection
+EndGlobal
